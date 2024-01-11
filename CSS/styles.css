@@ -1,0 +1,55 @@
+/*body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}*/
+
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#holaMundo {
+    font-size: 24px;
+    color: #333;
+}
+
+/*footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}*/
+/* Coloca aquí tus estilos personalizados */
+
+body {
+    padding-top: 56px; /* Altura de la barra de navegación */
+}
+
+.container {
+    margin-top: 50px;
+}
